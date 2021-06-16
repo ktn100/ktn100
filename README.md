@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ktn100
+- 👋 Hi, I’m @ktn100(Ketan)
 - 👀 I’m interested in python,javascript,java,c++
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on python projects
